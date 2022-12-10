@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphasierra101
 - 👀 I’m interested in full stack programmer 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently a beginner in web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
