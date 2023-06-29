@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @alphasierra101
-- 👀 I’m interested in full stack programmer 
-- 🌱 I’m currently a beginner in web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @abhishek (Upcoming Front-end Engineer).
+- 👀 I’m interested in becoming a full-stack programmer & continuously putting efforts in that direction.
+- 🌱 I’m currently learning web development. 
+- 📫 How to reach me ... "https://github.com/alphasierra101"
 
 <!---
 alphasierra101/alphasierra101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
