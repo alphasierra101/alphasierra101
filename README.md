@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhishek (Upcoming Front-end Engineer).
+- 👋 Hi, I’m @abhishek (Web Developer).
 - 👀 I’m interested in becoming a full-stack programmer & continuously putting efforts in that direction.
-- 🌱 I’m currently learning web development. 
+- 🌱 I’m currently learning & evolving myself in web development. 
 - 📫 How to reach me ... "https://github.com/alphasierra101"
 
 <!---
